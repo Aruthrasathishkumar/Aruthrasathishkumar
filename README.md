@@ -33,7 +33,6 @@ I'm always learning, iterating, and looking for better ways to solve real-world 
 
 ## 🛠️ Tech Stack
 
-```yaml
 Languages: Python, JavaScript, Java, TypeScript, Go  
 Frameworks: React, FastAPI, Node.js, NestJS  
 Cloud: AWS (EKS, Lambda, EC2), Azure  
@@ -42,7 +41,7 @@ Databases: PostgreSQL, MongoDB, Redis
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect## 🛠️ Tech Stack
 
 I'm always open to meaningful conversations — whether it's about tech, collaboration, or career opportunities. Feel free to reach out!
 
