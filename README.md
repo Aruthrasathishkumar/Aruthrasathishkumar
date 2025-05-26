@@ -2,7 +2,6 @@
 
 Welcome to my corner of the internet — where code meets creativity, and scalable systems come to life.
 
----
 
 ## 💻 About Me
 
@@ -16,7 +15,6 @@ I'm a **Software Engineer** who loves building solutions that are not only funct
 
 Currently pursuing my **Master’s in Information Systems** at **George Mason University**, I enjoy working at the intersection of software engineering and infrastructure, creating systems that stay up, scale out, and serve users better.
 
----
 
 ## 🚀 My Mission
 
@@ -29,7 +27,6 @@ I'm always learning, iterating, and looking for better ways to solve real-world 
 - Site Reliability Engineering (SRE)  
 - Cloud Engineering  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -39,9 +36,8 @@ Cloud: AWS (EKS, Lambda, EC2), Azure
 DevOps: Docker, Kubernetes, Terraform, GitHub Actions  
 Databases: PostgreSQL, MongoDB, Redis  
 
----
 
-## 📫 Let's Connect## 🛠️ Tech Stack
+## 📫 Let's Connect
 
 I'm always open to meaningful conversations — whether it's about tech, collaboration, or career opportunities. Feel free to reach out!
 
