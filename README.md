@@ -44,7 +44,7 @@ Built temporal deep-learning model reaching **89% accuracy**, outperforming ML b
 
 ### 🔹 **Real-Time Voice Q&A Platform**  
 *Node.js · Socket.io · OpenAI Whisper*  
-Low-latency (<100ms) real-time transcription system handling **1,500+ audio streams**.
+A multilingual, real-time voice Q&A system powered by **OpenAI Whisper**, **WebSockets**, and **translation APIs**.
 
 ---
 
