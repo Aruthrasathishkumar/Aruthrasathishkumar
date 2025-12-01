@@ -50,7 +50,7 @@ Low-latency (<100ms) real-time transcription system handling **1,500+ audio stre
 
 ## 🧰 Tech Stack
 **Languages:** Python, Java, TypeScript, SQL  
-**Backend:** FastAPI, Node.js, Django, Express  
+**Backend:** FastAPI, Node.js, Django, Express, REST API Design  
 **AI/ML:** PyTorch, Scikit-learn, FAISS, RAG  
 **Cloud:** AWS, Docker, Kubernetes  
 **DB:** PostgreSQL, MySQL, MongoDB, Redis  
