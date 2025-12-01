@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm <strong>Aruthra Sathish Kumar</strong></h1>
-
 <h3 align="center">Software Engineer · AI/ML Engineer · Distributed Systems</h3>
 
 <p align="center">
