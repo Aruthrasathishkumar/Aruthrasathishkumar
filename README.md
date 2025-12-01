@@ -14,9 +14,9 @@
 I’m a **Software Engineer** focused on building **scalable backend systems**, **distributed architectures**, and **production-grade AI/ML applications**.  
 
 I work across:
-- ⚙️ **Backend Engineering** — microservices, async pipelines, high-availability systems  
-- 🤖 **AI/ML Systems** — RAG, vector search, model optimization, inference pipelines  
-- ☁️ **Cloud Engineering** — AWS, Docker, Kubernetes, CI/CD  
+- ⚙️ **Backend Engineering** - microservices, async pipelines, high-availability systems  
+- 🤖 **AI/ML Systems** - RAG, vector search, model optimization, inference pipelines  
+- ☁️ **Cloud Engineering** - AWS, Docker, Kubernetes, CI/CD  
 
 Currently, I mentor 100+ engineers as a **Graduate Teaching Assistant for Backend & Distributed Systems**.
 
@@ -43,7 +43,7 @@ Hybrid retrieval + local LLM inference powering **100+ document** search with **
 Built temporal deep-learning model reaching **89% accuracy**, outperforming ML baselines.
 
 ### 🔹 **Real-Time Voice Q&A Platform**
-*Node.js · Socket.io · Whisper*  
+*Node.js · Socket.io · OpenAI Whisper*  
 Low-latency (<100ms) real-time transcription system handling **1,500+ audio streams**.
 
 ---
@@ -64,4 +64,4 @@ Low-latency (<100ms) real-time transcription system handling **1,500+ audio stre
 
 ---
 
-<h3 align="center">⚡ I build scalable systems and AI that solve real problems — at production scale.</h3>
+<h3 align="center">⚡ I build scalable systems and AI that solve real problems, at production scale.</h3>
