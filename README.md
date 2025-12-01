@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I'm <strong>Aruthra Sathish Kumar</strong></h1>
+
 <h3 align="center">Software Engineer · AI/ML Engineer · Distributed Systems</h3>
 
 <p align="center">
@@ -11,12 +12,12 @@
 ---
 
 ## 🚀 About Me
-I’m a **Software Engineer** focused on building **scalable backend systems**, **distributed architectures**, and **production-grade AI/ML applications**.  
+I’m a **Software Engineer** focused on building **scalable backend systems**, **distributed architectures**, and **production-grade AI/ML applications**.
 
 I work across:
-- ⚙️ **Backend Engineering** - microservices, async pipelines, high-availability systems  
-- 🤖 **AI/ML Systems** - RAG, vector search, model optimization, inference pipelines  
-- ☁️ **Cloud Engineering** - AWS, Docker, Kubernetes, CI/CD  
+- ⚙️ **Backend Engineering** – microservices, async pipelines, high-availability systems  
+- 🤖 **AI/ML Systems** – RAG, vector search, model optimization, inference pipelines  
+- ☁️ **Cloud Engineering** – AWS, Docker, Kubernetes, CI/CD  
 
 Currently, I mentor 100+ engineers as a **Graduate Teaching Assistant for Backend & Distributed Systems**.
 
@@ -34,15 +35,15 @@ Currently, I mentor 100+ engineers as a **Graduate Teaching Assistant for Backen
 
 ## 🏆 Highlight Projects
 
-### 🔹 **USDA RAG Chatbot**
+### 🔹 **USDA RAG Chatbot**  
 *FastAPI · MiniLM · FAISS · BM25*  
 Hybrid retrieval + local LLM inference powering **100+ document** search with **40% relevance improvement**.
 
-### 🔹 **Academic Analytics (CNN-GRU Model)**
+### 🔹 **Academic Analytics (CNN-GRU Model)**  
 *PyTorch*  
 Built temporal deep-learning model reaching **89% accuracy**, outperforming ML baselines.
 
-### 🔹 **Real-Time Voice Q&A Platform**
+### 🔹 **Real-Time Voice Q&A Platform**  
 *Node.js · Socket.io · OpenAI Whisper*  
 Low-latency (<100ms) real-time transcription system handling **1,500+ audio streams**.
 
