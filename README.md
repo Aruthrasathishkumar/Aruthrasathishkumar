@@ -5,7 +5,7 @@
   <a href="https://aruthrasathishkumar.com">Portfolio</a> •
   <a href="https://github.com/Aruthrasathishkumar">GitHub</a> •
   <a href="https://www.linkedin.com/in/aruthra-sathish-kumar369">LinkedIn</a> •
-  <a href="mailto:asathish@gmu.edu">Email</a>
+  <a href="mailto:aruthra.sathish@gmail.com">Email</a>
 </p>
 
 ---
@@ -58,7 +58,7 @@ A multilingual, real-time voice Q&A system powered by **OpenAI Whisper**, **WebS
 ---
 
 ## 📫 Contact
-📧 asathish@gmu.edu  
+📧 aruthra.sathish@gmail.com  
 🔗 linkedin.com/in/aruthra-sathish-kumar369  
 🌐 aruthrasathishkumar.com  
 
