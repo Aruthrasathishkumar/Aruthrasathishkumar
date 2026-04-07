@@ -37,9 +37,13 @@ Hybrid retrieval + local LLM inference powering **100+ document** search with **
 *PyTorch*  
 Built temporal deep-learning model reaching **89% accuracy**, outperforming ML baselines.
 
-### 🔹 **Real-Time Voice Q&A Platform**  
+### 🔹 **SpeakUp - Anonymous Voice Q&A Platform**  
 *Node.js · Socket.io · Grok Whisper*  
 A multilingual, real-time voice Q&A system powered by **Grok Whisper**, **WebSockets**, and **translation APIs**.
+
+### 🔹 **Careerlens - Job Search Intelligence Platform**  
+*FastAPI · JWT · Google OAuth · Chrome Manifest v3*  
+A full-stack platform that transforms job searching from tracking into intelligence + strategy.
 
 ## 🧰 Tech Stack
 **Languages:** Python, Java, Javascript, TypeScript, SQL  
