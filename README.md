@@ -38,7 +38,7 @@ Hybrid retrieval + local LLM inference powering **100+ document** search with **
 Built temporal deep-learning model reaching **89% accuracy**, outperforming ML baselines.
 
 ### 🔹 **SpeakUp - Anonymous Voice Q&A Platform**  
-*Node.js · Socket.io · Grok Whisper*  
+*Node.js · Socket.io · Kafka · Grok Whisper*  
 A multilingual, real-time voice Q&A system powered by **Grok Whisper**, **WebSockets**, and **translation APIs**.
 
 ### 🔹 **Careerlens - Job Search Intelligence Platform**  
