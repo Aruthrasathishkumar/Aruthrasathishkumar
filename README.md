@@ -8,7 +8,6 @@
   <a href="mailto:aruthra.sathish@gmail.com">Email</a>
 </p>
 
----
 
 ## 🚀 About Me
 I’m a **Software Engineer** focused on building **scalable backend systems**, **distributed architectures**, and **production-grade AI/ML applications**.
@@ -20,8 +19,6 @@ I work across:
 
 Currently, I mentor 100+ engineers as a **Graduate Teaching Assistant for Backend & Distributed Systems**.
 
----
-
 ## 🔧 Core Strengths
 - Distributed Systems & Microservices  
 - Python · TypeScript · Node.js · FastAPI  
@@ -29,8 +26,6 @@ Currently, I mentor 100+ engineers as a **Graduate Teaching Assistant for Backen
 - PyTorch · Scikit-learn · FAISS · RAG  
 - AWS · Docker · Kubernetes  
 - Real-time Systems (WebSockets, async workers)
-
----
 
 ## 🏆 Highlight Projects
 
@@ -43,13 +38,11 @@ Hybrid retrieval + local LLM inference powering **100+ document** search with **
 Built temporal deep-learning model reaching **89% accuracy**, outperforming ML baselines.
 
 ### 🔹 **Real-Time Voice Q&A Platform**  
-*Node.js · Socket.io · OpenAI Whisper*  
-A multilingual, real-time voice Q&A system powered by **OpenAI Whisper**, **WebSockets**, and **translation APIs**.
-
----
+*Node.js · Socket.io · Grok Whisper*  
+A multilingual, real-time voice Q&A system powered by **Grok Whisper**, **WebSockets**, and **translation APIs**.
 
 ## 🧰 Tech Stack
-**Languages:** Python, Java, TypeScript, SQL  
+**Languages:** Python, Java, Javascript, TypeScript, SQL  
 **Backend:** FastAPI, Node.js, Django, Express, REST API Design  
 **AI/ML:** PyTorch, Scikit-learn, FAISS, RAG  
 **Cloud:** AWS, Docker, Kubernetes  
