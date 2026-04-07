@@ -48,13 +48,10 @@ A multilingual, real-time voice Q&A system powered by **Grok Whisper**, **WebSoc
 **Cloud:** AWS, Docker, Kubernetes  
 **DB:** PostgreSQL, MySQL, MongoDB, Redis  
 
----
 
 ## 📫 Contact
 📧 aruthra.sathish@gmail.com  
 🔗 linkedin.com/in/aruthra-sathish-kumar369  
 🌐 aruthrasathishkumar.com  
-
----
 
 <h3 align="center">⚡ I build scalable systems and AI that solve real problems, at production scale.</h3>
