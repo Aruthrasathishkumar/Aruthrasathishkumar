@@ -29,9 +29,9 @@ Currently, I mentor 100+ engineers as a **Graduate Teaching Assistant for Backen
 
 ## 🏆 Highlight Projects
 
-### 🔹 **USDA RAG Chatbot**  
-*FastAPI · MiniLM · FAISS · BM25*  
-Hybrid retrieval + local LLM inference powering **100+ document** search with **40% relevance improvement**.
+### 🔹 **USDA Rural Development AI Assistant**  
+*FastAPI · Ollama(Mistral) · FAISS · LlamaIndex*  
+A full-stack AI system that transforms complex government programs into simple, conversational, and actionable guidance using RAG.
 
 ### 🔹 **Academic Analytics (CNN-GRU Model)**  
 *PyTorch*  
