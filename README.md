@@ -33,9 +33,9 @@ Currently, I mentor 100+ engineers as a **Graduate Teaching Assistant for Backen
 *FastAPI · Ollama(Mistral) · FAISS · LlamaIndex*  
 A full-stack AI system that transforms complex government programs into simple, conversational, and actionable guidance using RAG.
 
-### 🔹 **Academic Analytics (CNN-GRU Model)**  
-*PyTorch*  
-Built temporal deep-learning model reaching **89% accuracy**, outperforming ML baselines.
+### 🔹 **Academic Performance Intelligence System (CNN-GRU Model)**  
+*PyTorch · Pandas · NumPy · Scikit-learn*  
+A deep learning system that predicts student academic risk and future performance using sequential behavioral data from a real university course.
 
 ### 🔹 **SpeakUp - Anonymous Voice Q&A Platform**  
 *Node.js · Socket.io · Kafka · Grok Whisper*  
