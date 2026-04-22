@@ -13,9 +13,9 @@
 I’m a **Software Engineer** focused on building **scalable backend systems**, **distributed architectures**, and **production-grade AI/ML applications**.
 
 I work across:
-- ⚙️ **Backend Engineering** – microservices, async pipelines, high-availability systems  
-- 🤖 **AI/ML Systems** – RAG, vector search, model optimization, inference pipelines  
-- ☁️ **Cloud Engineering** – AWS, Azure, Docker, Kubernetes, CI/CD  
+- ⚙️ **Backend Engineering** - microservices, async pipelines, high-availability systems  
+- 🤖 **AI/ML Systems** - RAG, vector search, model optimization, inference pipelines  
+- ☁️ **Cloud Engineering** - AWS, Azure, Docker, Kubernetes, CI/CD  
 
 Currently, I mentor 100+ engineers as a **Graduate Teaching Assistant for Backend & Distributed Systems**.
 
