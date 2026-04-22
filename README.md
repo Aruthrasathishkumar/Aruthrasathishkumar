@@ -29,6 +29,10 @@ Currently, I mentor 100+ engineers as a **Graduate Teaching Assistant for Backen
 
 ## 🏆 Highlight Projects
 
+### 🔹 **WatchTower - An MCP server for end-to-end incident response**  
+*MCP · Postgres+pgvector · Kubernetes · HMAC Security*  
+An AI-powered incident response system using MCP to investigate and remediate issues across real production infrastructure.
+
 ### 🔹 **USDA Rural Development AI Assistant**  
 *FastAPI · Ollama(Mistral) · FAISS · LlamaIndex*  
 A full-stack AI system that transforms complex government programs into simple, conversational, and actionable guidance using RAG.
