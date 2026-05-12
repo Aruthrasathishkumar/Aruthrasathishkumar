@@ -24,7 +24,7 @@ Currently, I mentor 100+ engineers as a **Graduate Teaching Assistant for Backen
 - Python · TypeScript · Node.js · FastAPI  
 - SQL Optimization · PostgreSQL · Redis  
 - PyTorch · Scikit-learn · FAISS · RAG  
-- AWS · Docker · Kubernetes  
+- AWS · Azure · Docker · Kubernetes  
 - Real-time Systems (WebSockets, async workers)
 
 ## 🏆 Highlight Projects
