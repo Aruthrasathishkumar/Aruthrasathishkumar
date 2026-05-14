@@ -10,7 +10,7 @@
 
 
 ## 🚀 About Me
-I’m a **Software Engineer** focused on building **scalable backend systems**, **distributed architectures**, and **production-grade AI/ML applications**.
+I’m a **Software Engineer** focused on building **scalable backend systems**, **distributed architectures**, and **production-grade AI / ML applications**.
 
 I work across:
 - ⚙️ **Backend Engineering** - microservices, async pipelines, high-availability systems  
